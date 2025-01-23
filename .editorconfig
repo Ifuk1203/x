@@ -1,5 +1,5 @@
 # top-most EditorConfig file
-root = false
+root = ture
 
 # Unix-style newlines with a newline ending every file
 [*.{js,css}]
